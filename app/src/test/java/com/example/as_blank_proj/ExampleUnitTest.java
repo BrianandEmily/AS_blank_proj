@@ -1,4 +1,4 @@
-package com.example.simpletodo;
+package com.example.as_blank_proj;
 
 import org.junit.Test;
 

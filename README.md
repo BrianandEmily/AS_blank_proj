@@ -1,6 +1,6 @@
-# FH_SimpleToDo
+# Blank Android Studio Project
 
-A simple Android Studio demonstration for FullyHacks 2023!
+Starter files for a Java-based AS project
 
 Accompanying slides: https://docs.google.com/presentation/d/14KNA1VjsvGRGFQsj8Yi7p0aFqW-nejssvCfwXHkbPYE/edit?usp=sharing
 

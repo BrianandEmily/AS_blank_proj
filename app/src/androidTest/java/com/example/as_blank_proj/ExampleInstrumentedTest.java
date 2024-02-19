@@ -1,4 +1,4 @@
-package com.example.simpletodo;
+package com.example.as_blank_proj;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

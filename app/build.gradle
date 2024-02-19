@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.simpletodo'
+    namespace 'com.example.as_blank_proj'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.simpletodo"
+        applicationId "com.example.as_blank_proj"
         minSdk 24
         targetSdk 33
         versionCode 1
